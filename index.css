@@ -1,0 +1,188 @@
+body{
+    background-color: rgb(86, 86, 88);
+}
+.button0,.button1,.button2,.button3,.button4,.button5,.button6,.button7,.button8,
+.button9,.button10,.button11,.button12,.button13,.button14,.button15
+{
+    width:80px;
+    height: 60px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    padding-top: 20px;
+    color:white;
+    background-color: rgb(112, 112, 117);
+    border-radius: 15px;
+    box-shadow: 0 0 2px rgb(45, 45, 46);
+    cursor: pointer;
+    font-size: 30px;
+
+}
+
+.button0:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button1:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button2:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button3:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button4:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button5:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button6:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button7:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button8:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button9:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button10:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button11:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button12:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button13:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button14:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+.button15:hover{
+    color: rgb(17, 188, 211);
+    background-color: rgb(11, 11, 12);
+}
+
+.displayArea{
+    width:400px;
+    height: 80px;
+    border: 2px solid black;
+    display: inline-block;
+    position: absolute;
+    top:20px;
+    left: 480px;
+    text-align: right;
+    font-size: 60px;
+    color:white;
+    background-color: rgb(112,112,117);
+}
+.button9{
+    position: absolute;
+    top:140px;
+    left:500px;
+}
+
+.button13{
+    position: absolute;
+    top:140px;
+    left:800px;
+}
+.button6{
+    position: absolute;
+    top:240px;
+    left:500px;
+}
+.button7{
+    position: absolute;
+    top:240px;
+    left:600px;
+}
+
+.button8{
+    position: absolute;
+    top:240px;
+    left:700px;
+}
+
+.button12{
+    position: absolute;
+    top:240px;
+    left:800px;
+}
+
+.button3{
+    position: absolute;
+    top:340px;
+    left:500px;
+}
+.button4{
+    position: absolute;
+    top:340px;
+    left:600px;
+}
+
+.button5{
+    position: absolute;
+    top:340px;
+    left:700px;
+}
+
+.button11{
+    position: absolute;
+    top:340px;
+    left:800px;
+}
+
+.button0{
+    position: absolute;
+    top:440px;
+    left:500px;
+}
+.button1{
+    position: absolute;
+    top:440px;
+    left:600px;
+}
+.button2{
+    position: absolute;
+    top:440px;
+    left:700px;
+}
+.button10{
+    position: absolute;
+    top:440px;
+    left:800px;
+}
+
+.button14{
+    position: absolute;
+    top:540px;
+    left:600px;
+}
+
+.button15{
+    position: absolute;
+    top:540px;
+    left:700px;
+}
